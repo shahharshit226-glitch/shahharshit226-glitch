@@ -21,11 +21,11 @@
 
 ### 🔥 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shaharshit226-glitch&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahharshit226-glitch&show_icons=true&theme=radical" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaharshit226-glitch&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahharshit226-glitch&theme=radical" />
 </p>
 
 ---
