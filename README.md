@@ -1,20 +1,15 @@
-# 👋 Hi, I'm Harshit Shah
+<h1 align="center">Hi 👋, I'm Harshit Shah</h1>
 
-### 🚀 Computer Science Engineering Student | Full-Stack Developer | AI/ML Enthusiast
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png" width="100%" />
-</p>
+<h3 align="center">
+  CSE Student @ KIIT University | Full-Stack Developer | AI/ML Enthusiast
+</h3>
 
 <p align="center">
   <a href="https://github.com/shahharshit226-glitch">
-    <img src="https://img.shields.io/github/followers/shahharshit226-glitch?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/shahharshit226-glitch">
-    <img src="https://img.shields.io/github/stars/shahharshit226-glitch?label=Stars&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/shahharshit226-glitch?label=Followers&style=flat-square" />
   </a>
   <a href="https://www.linkedin.com/in/harshitshah506">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
 
@@ -22,46 +17,18 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 CSE student at **KIIT University, Bhubaneswar**
-* 💻 Passionate about **Web Development, AI/ML & Software Engineering**
-* 🧠 Currently strengthening my **Data Structures & Algorithms**
-* 🤖 Exploring **Computer Vision, Generative AI & Machine Learning**
-* ☁️ Learning **Cloud Computing, AWS & Backend Development**
-* 🔨 Building real-world projects to solve practical problems
-* 🚀 Always learning, experimenting, and improving
+* 🎓 Computer Science Engineering student at **KIIT University, Bhubaneswar**
+* 💻 Interested in **Full-Stack Development & AI/ML**
+* 🧠 Currently improving **Data Structures & Algorithms**
+* ☁️ Learning **Cloud Computing & AWS**
+* 🚀 Building real-world projects and learning through hands-on development
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs" />
-</p>
-
-### 🗄️ Database & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,fastapi" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" />
-</p>
-
-### 🤖 AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nextjs,tailwind,nodejs,fastapi,mysql,postgres,mongodb,supabase,git,github,docker,aws,vercel" />
 </p>
 
 ---
@@ -70,127 +37,103 @@
 
 ### 🛒 ResaleBRT
 
-A local marketplace designed for buying and selling used products in Biratnagar.
+**Local marketplace for buying and selling used products in Biratnagar.**
 
-**Features:**
-
-* 📦 Product listings
-* 🔍 Search & filtering
-* 👤 User authentication
-* 💬 WhatsApp-based seller contact
-* 📝 Buyer Request / Reverse Marketplace
-* 🛡️ Admin-reviewed listings
+* Product listings and search
+* User authentication
+* Admin-reviewed listings
+* WhatsApp seller contact
+* Buyer Request / Reverse Marketplace
 
 **Tech:** `Next.js` `React` `Tailwind CSS` `Supabase` `Vercel`
 
 ---
 
-### 🤖 AI Resume Analyzer
+### 📄 AI Resume Analyzer
 
-An AI-powered resume analysis platform that evaluates resumes against different job roles.
+**AI-powered platform for analyzing resumes against different job roles.**
 
-**Features:**
+* ATS compatibility scoring
+* Skills matching
+* Keyword optimization
+* Resume quality analysis
+* PDF/DOCX/TXT parsing
+* Automated email processing
 
-* 📄 PDF/DOCX/TXT resume parsing
-* 🎯 ATS compatibility scoring
-* 🧠 Skills matching
-* 🔑 Keyword optimization
-* 📊 Resume quality analysis
-* 📧 Automated email processing
-
-**Tech:** `Python` `FastAPI` `React` `Vite` `Tailwind CSS` `NLP`
+**Tech:** `Python` `FastAPI` `React` `Vite` `NLP`
 
 ---
 
-### 👁️ Multimodal Face Recognition System
+### 🤖 Multimodal Face Recognition System
 
-An AI-based system exploring face recognition using multiple modalities and computer vision techniques.
+Exploring computer vision and AI techniques for **face recognition and identity verification**.
 
-**Focus Areas:**
-
-* 🧠 Computer Vision
-* 👤 Face Recognition
-* 🔐 Identity Verification
-* 🤖 Machine Learning
+**Focus:** `Computer Vision` `Machine Learning` `Face Recognition`
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-Data Structures & Algorithms
-        ↓
-Advanced SQL & Database Systems
-        ↓
-Backend Development
-        ↓
-Cloud Computing & AWS
-        ↓
-Machine Learning & AI
-        ↓
-System Design
+DSA → Backend Development → Cloud/AWS → AI/ML → System Design
 ```
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahharshit226-glitch&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahharshit226-glitch&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shahharshit226-glitch&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahharshit226-glitch&layout=compact&theme=radical&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahharshit226-glitch&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahharshit226-glitch&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahharshit226-glitch&theme=react-dark&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=shahharshit226-glitch&theme=radical&hide_border=true"
+    height="170"
+  />
 </p>
 
 ---
 
-## 🎯 2026 Goals
+## 📈 Contributions
 
-* ✅ Build and deploy real-world projects
-* 🔄 Improve DSA & problem-solving
-* 🔄 Master backend development
-* 🔄 Learn AWS & Cloud Architecture
-* 🔄 Deepen my understanding of AI/ML
-* 🔄 Contribute to open-source projects
-* 🚀 Prepare for software engineering internships
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shahharshit226-glitch&theme=react-dark&hide_border=true"
+  />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Goals
+
+* Improve DSA & problem-solving
+* Build production-ready applications
+* Master backend development
+* Learn AWS & cloud architecture
+* Explore AI/ML and computer vision
+* Contribute to open source
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshitshah506">
-    <img src="https://img.shields.io/badge/LinkedIn-Harshit%20Shah-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Harshit%20Shah-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/shahharshit226-glitch">
-    <img src="https://img.shields.io/badge/GitHub-shahharshit226--glitch-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Harshit%20Shah-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  💡 <i>“Build. Break. Learn. Improve. Repeat.”</i>
-</p>
-
----
-
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+  <i>Building, learning, and shipping.</i>
 </p>
